@@ -5,5 +5,9 @@ public class hello {
         int x = 3, y = 5;
         System.out.println(x + y);
         System.out.println(2 * x);
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
